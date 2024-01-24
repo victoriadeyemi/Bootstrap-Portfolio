@@ -1,0 +1,56 @@
+/* FILEPATH: /c:/Users/victo/OneDrive/Desktop/bootcamp/Bootcamp Challenges/Bootstrap-Portfolio/assets/css/style.css */
+
+/* Set the body to use flexbox */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the portfolio container */
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Style each portfolio item */
+.portfolio-item {
+    flex: 0 0 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the portfolio item content */
+.portfolio-item-content {
+    text-align: center;
+}
+
+/* Style the portfolio item title */
+.portfolio-item-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Style the portfolio item description */
+.portfolio-item-description {
+    font-size: 14px;
+    color: #666;
+}
+
+/* Style the portfolio item image */
+.portfolio-item-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
