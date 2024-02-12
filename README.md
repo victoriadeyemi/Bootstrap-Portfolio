@@ -16,5 +16,5 @@ Refactored the code base appropriately.
 
 URL of deployed application: https://victoriadeyemi.github.io/Bootstrap-Portfolio/
 URL of Github repository: https://github.com/victoriadeyemi/Bootstrap-Portfolio
-Screenshot of deployed application: ![Screenshot of deployed application](assets/images/my-portfolio-deployed-live.png)
+Screenshot of deployed application: ![Screenshot of deployed application](/assets/images/Deployed-bootstrap-portfolio-application.png)
 
