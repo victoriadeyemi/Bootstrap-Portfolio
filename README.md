@@ -14,7 +14,7 @@ Created CSS to style all the html properties.
 
 Refactored the code base appropriately.
 
-URL of deployed application: https://victoriadeyemi.github.io/my-portfolio/
+URL of deployed application: https://victoriadeyemi.github.io/Bootstrap-Portfolio/
 URL of Github repository: https://github.com/victoriadeyemi/Bootstrap-Portfolio
 Screenshot of deployed application: ![Screenshot of deployed application](assets/images/my-portfolio-deployed-live.png)
 
